@@ -13,5 +13,7 @@ loop_message_n_times(message, number)
 
 message = "Hello Moon."
 number = 5
-5.times { puts message }
+5.times do
+  puts message
+end
 end
