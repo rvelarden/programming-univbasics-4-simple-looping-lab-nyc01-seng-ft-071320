@@ -1,4 +1,4 @@
 # Write your methods here
 loop_message_five_times(message)
-message("hola")
+message ="hola"
 puts message
