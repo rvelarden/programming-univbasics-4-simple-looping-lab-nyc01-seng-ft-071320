@@ -23,3 +23,8 @@ array.each do |element|
 end
 end  
 
+def return_string_array(array)
+ array.each do |element|
+return array 
+end
+end
