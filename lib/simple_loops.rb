@@ -14,5 +14,9 @@ loop_message_n_times(message, number)
 message = "Hello Red Balloon."
 10.times do
   puts message
+  
+message = "Hello Moon."
+5.times do
+  puts message  
 end
 end
