@@ -25,6 +25,6 @@ end
 
 def return_string_array(array)
  array.each do |element|
-return item 
+return array 
 end
 end
