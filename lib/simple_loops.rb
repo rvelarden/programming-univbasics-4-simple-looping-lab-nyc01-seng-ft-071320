@@ -20,5 +20,5 @@ end
 def 
 output_array(array)
 puts output_array.each do |array|
-
+end
 end  
