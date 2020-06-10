@@ -19,6 +19,6 @@ end
 
 def 
 output_array(array)
-output_array.each do |array|
-puts 
+puts output_array.each do |array|
+
 end  
