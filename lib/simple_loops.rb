@@ -19,5 +19,5 @@ end
 
 def output_array(array)
 array.each do 
-
+end
 end  
