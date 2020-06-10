@@ -22,3 +22,4 @@ array.each do |element|
  puts element 
 end
 end  
+
