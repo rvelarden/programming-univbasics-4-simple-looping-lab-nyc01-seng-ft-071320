@@ -12,5 +12,5 @@ def
 loop_message_n_times(message, number) 
 
 message = "Hello Moon."
-puts message * number 
+puts message + 5 
 end
