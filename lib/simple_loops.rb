@@ -9,6 +9,7 @@ puts message
 end
 
 def 
-loop_message_n_times(10 + message) 
+loop_message_n_times(message, number) 
 message ="Hello World."
+number = 
 end
