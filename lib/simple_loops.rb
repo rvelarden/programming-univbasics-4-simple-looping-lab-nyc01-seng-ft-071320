@@ -11,7 +11,7 @@ end
 def 
 loop_message_n_times(message, number) 
 
-message = "Hello Red Balloon."
+message 
 10.times do
   puts message
   
