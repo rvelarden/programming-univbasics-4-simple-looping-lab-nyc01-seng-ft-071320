@@ -11,11 +11,8 @@ end
 def 
 loop_message_n_times(message, number) 
 
-message 
-10.times do
-  puts message
   
-message = "Hello Moon."
+message 
 5.times do
   puts message  
 end
