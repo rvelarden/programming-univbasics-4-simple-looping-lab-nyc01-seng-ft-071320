@@ -26,7 +26,6 @@ end
 def return_string_array(array)
   new_array = []
  array.each do |element|
-  element.to_s
 new_array.push(element.to_s) 
 end
 end
