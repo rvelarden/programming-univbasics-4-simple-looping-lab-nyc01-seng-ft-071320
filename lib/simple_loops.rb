@@ -24,7 +24,7 @@ end
 end  
 
 def return_string_array(array)
- array.each do |element|
+ return_string_array.each do |array|
 return array 
 end
 end
