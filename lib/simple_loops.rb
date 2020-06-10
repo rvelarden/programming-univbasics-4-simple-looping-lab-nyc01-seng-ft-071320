@@ -10,7 +10,7 @@ end
 
 def 
 loop_message_n_times(message, number) 
-message ="Hello World."
-number = 'Hello Moon.'
+message = "Hello Moon."
+number = 5
 puts number * 5 
 end
