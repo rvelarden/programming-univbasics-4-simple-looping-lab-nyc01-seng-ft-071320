@@ -12,7 +12,7 @@ def
 loop_message_n_times(message, number) 
 
  
-5.times do
+10.times do
   puts message  
 end
 
