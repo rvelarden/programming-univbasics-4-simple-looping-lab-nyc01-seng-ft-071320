@@ -9,5 +9,6 @@ puts message
 end
 
 def 
-  
+loop_message_n_times(10 + message) 
+message ="Hello World."
 end
